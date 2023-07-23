@@ -1,0 +1,88 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.container{
+    text-align: left;
+    margin-left:26rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.5rem;
+    display: block;
+}
+   
+
+
+div .container div{
+    font-size: 0.8rem;
+    color:yellowgreen;
+    margin: 0.5rem;
+    padding: 0.3rem;
+}
+#ftn{
+    color:yellow ;
+    margin: 0.8rem;
+    margin-left:0;
+}
+.flexx{
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    
+    justify-content: center;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+
+ 
+
+}
+.btn{
+    background-color: darkcyan;
+    color: #fff;
+    
+    padding: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    text-align: left;
+    font-size: 0.8rem;
+}
+.btn1{
+    background-color:darkturquoise;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    text-align: left;
+    padding: 1rem;
+    font-size: 0.8rem;
+    
+    
+    
+}
+#sp1{
+    margin-bottom: 0.8rem;
+}
+span{
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    margin-top: 0.8rem;
+    background-color: lime;
+    color: white;
+    border:1px solid;
+    border-radius: 3px;
+    margin-bottom: 0;
+}
+#mtn{
+    margin-bottom: 0.8rem;
+}
